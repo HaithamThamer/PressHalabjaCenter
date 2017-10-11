@@ -1,0 +1,51 @@
+body{
+    
+}
+header > ul.items > li{
+                    width: 95%;
+                    margin: 2px 0px;
+                }
+                .Items > li{
+                    display: inline-block;
+                    width: 90%;
+                    text-align: center;
+                }
+.Items > li{
+    display: inline-block;
+    width: 90%;
+    text-align: center;
+}
+section#realBody > ul.items > li {
+    width: 90%;
+    
+}
+section#realBody > ul.items > li:nth-child(2){
+    width: 90%;
+    
+}
+
+.post > ul > .image {
+    width: 100%;
+    border-left: none;
+    border-right: none;
+    border-bottom: 1px solid #ccc;
+}
+
+
+.post > ul > .container{
+    width: 100%;
+}
+.Items > li{
+    display: inline-block;
+    width: 90%;
+    text-align: center;
+}
+footer > ul.items > li{
+    width: 95%;
+    margin: 2px 0px;
+}
+li.container > ul > li.content > ul > li{
+    display:inline-block;
+    border: 2px solid #ccc;
+    width: 80%;
+}

@@ -1,0 +1,16 @@
+body{
+    direction: rtl;
+}
+.post .image{
+    border-left: 1px solid #ccc;
+}
+.post .title{
+    text-align: right;
+}
+.post .datetime{
+    text-align: right;
+}
+.post .userName{
+    text-align: right;
+    
+}
